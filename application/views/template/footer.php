@@ -5,9 +5,3 @@
 <script src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
 </body>
 </html>
-/**
- * Created by PhpStorm.
- * User: NAY
- * Date: 25. 4. 2017
- * Time: 8:54
- */
