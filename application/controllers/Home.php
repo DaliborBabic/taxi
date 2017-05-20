@@ -7,6 +7,11 @@ class Home extends CI_Controller {
         $this->load->view('template/footer');
 
 
+        $this->load->model('home_model');
+        echo '<pre>';
+        print_r($this->home_model->getAuto());
+        echo '</pre>';
     }
+
     }
 ?>
